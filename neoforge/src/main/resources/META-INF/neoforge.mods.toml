@@ -26,7 +26,7 @@ versionRange = "${neoForgeVersionRange}"
 ordering = "NONE"
 side = "BOTH"
 
-[[dependencies]]
+[[dependencies.${modId}]]
 modId = "minecraft"
 type = "required"
 versionRange = "${minecraftVersionRange}"
